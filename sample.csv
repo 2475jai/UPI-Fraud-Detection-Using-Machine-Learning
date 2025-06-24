@@ -1,0 +1,1006 @@
+Amount,Date,Transaction_Type,Payment_Gateway,Transaction_State,Merchant_Category
+6645.76,31-05-2023,Other,HDFC,Himachal Pradesh,Financial services and Taxes
+6774.65,19-01-2024,Bill Payment,HDFC,Arunachal Pradesh,Financial services and Taxes
+3421.7,18-09-2023,Other,HDFC,Odisha,Utilities
+3545.72,18-08-2023,Other,HDFC,West Bengal,Other
+361.45,02-06-2023,Payment,IDFC UPI,Punjab,Utilities
+46880.17,16-01-2025,Refund,Other,Tripura,Home delivery
+46226.74,17-06-2024,Other,PhonePe,Rajasthan,Financial services and Taxes
+6848.71,16-09-2024,Subscription,Paytm,Uttar Pradesh,Donations and Devotion
+26449.72,11-04-2024,Investment,Google Pay,Sikkim,Home delivery
+36270.42,01-02-2025,Refund,ICICI UPI,West Bengal,Home delivery
+13128.55,08-01-2025,Other,Google Pay,Sikkim,Travel bookings
+21017.4,23-11-2024,Purchase,Google Pay,West Bengal,Travel bookings
+34024.57,28-02-2025,Subscription,ICICI UPI,Tamil Nadu,Travel bookings
+31572.14,04-08-2024,Bill Payment,Paytm,Uttar Pradesh,Purchases
+4635.31,26-06-2024,Refund,PhonePe,Tripura,More Services
+40776.76,23-06-2024,Subscription,Paytm,Uttarakhand,More Services
+35954.31,09-10-2024,Subscription,HDFC,Sikkim,Financial services and Taxes
+2179.28,10-06-2024,Investment,ICICI UPI,Punjab,Donations and Devotion
+2479.89,06-11-2024,Purchase,PhonePe,Punjab,Financial services and Taxes
+37387.72,06-07-2024,Subscription,Other,Tamil Nadu,Financial services and Taxes
+40406.38,13-12-2024,Refund,PhonePe,Tripura,Travel bookings
+28211.68,03-02-2025,Bill Payment,Other,Telangana,Investment
+44467.53,31-03-2024,Bill Payment,Other,Tripura,Investment
+32965.25,05-04-2024,Bill Payment,Google Pay,Rajasthan,Travel bookings
+6267.52,22-07-2024,Subscription,HDFC,Punjab,Purchases
+25472.8,02-02-2025,Bill Payment,Paytm,Tamil Nadu,Travel bookings
+2710.65,08-02-2025,Purchase,IDFC UPI,Odisha,Utilities
+49418.01,06-10-2024,Subscription,Other,Rajasthan,Home delivery
+16110.64,14-11-2024,Refund,Paytm,Punjab,Other
+23394.59,26-12-2024,Bill Payment,Other,West Bengal,More Services
+28156.42,22-06-2024,Purchase,Google Pay,Odisha,Purchases
+3853.8,25-07-2024,Subscription,PhonePe,Rajasthan,Purchases
+6618.48,24-02-2025,Subscription,Paytm,Uttarakhand,Home delivery
+20393.47,13-11-2024,Subscription,HDFC,Odisha,Travel bookings
+14763.41,15-10-2024,Refund,Other,Punjab,Travel bookings
+35284.94,10-06-2024,Bill Payment,Google Pay,Tamil Nadu,Financial services and Taxes
+10022.69,03-01-2025,Investment,Other,Tripura,Utilities
+23582.14,06-12-2024,Subscription,ICICI UPI,Punjab,Financial services and Taxes
+10537.17,05-10-2024,Bill Payment,Other,Uttarakhand,Utilities
+44552.33,05-02-2025,Other,Paytm,Uttar Pradesh,Travel bookings
+35139.36,17-12-2024,Subscription,Paytm,Uttar Pradesh,Investment
+43773.27,05-07-2024,Subscription,HDFC,Uttarakhand,Financial services and Taxes
+15885.34,25-12-2024,Purchase,Paytm,Rajasthan,More Services
+40745.12,06-11-2024,Investment,IDFC UPI,Tripura,Purchases
+19379.15,17-09-2024,Bill Payment,HDFC,Punjab,Purchases
+44426.65,23-09-2024,Other,IDFC UPI,Odisha,Home delivery
+3253.64,16-04-2024,Other,HDFC,Uttar Pradesh,Travel bookings
+25026.36,03-06-2024,Investment,Other,Punjab,Donations and Devotion
+22763.76,09-01-2025,Purchase,IDFC UPI,Tripura,Other
+40221.58,17-12-2024,Refund,Other,Sikkim,Donations and Devotion
+26029.5,29-08-2024,Investment,IDFC UPI,Telangana,Home delivery
+17771.94,03-12-2024,Other,IDFC UPI,West Bengal,Investment
+2005.31,10-06-2024,Other,Other,Tamil Nadu,Utilities
+18108.24,14-05-2024,Other,Paytm,Uttar Pradesh,Donations and Devotion
+46379.37,15-10-2024,Subscription,Paytm,Telangana,Other
+14032.05,28-01-2025,Refund,ICICI UPI,Tamil Nadu,Utilities
+45702.46,02-10-2024,Subscription,Razor Pay,Punjab,Donations and Devotion
+46931.2,25-12-2024,Other,IDFC UPI,West Bengal,More Services
+6164.05,13-06-2024,Investment,Other,Sikkim,Utilities
+41900.88,20-02-2025,Other,ICICI UPI,Sikkim,Donations and Devotion
+48975.71,16-11-2024,Refund,Other,Telangana,More Services
+26910.48,16-09-2024,Refund,Paytm,Uttarakhand,Utilities
+26484.27,15-06-2024,Refund,Paytm,Tamil Nadu,Other
+10672.14,30-04-2024,Refund,Paytm,Tamil Nadu,Financial services and Taxes
+10789.97,09-05-2024,Refund,Razor Pay,West Bengal,Investment
+26169.16,22-12-2024,Other,ICICI UPI,Tripura,Investment
+9057.67,10-02-2025,Bill Payment,HDFC,Uttarakhand,Purchases
+34290.89,02-07-2024,Other,Google Pay,Tamil Nadu,Travel bookings
+21838.2,17-06-2024,Subscription,IDFC UPI,Uttarakhand,Utilities
+3552.6,24-08-2024,Refund,Google Pay,Odisha,Other
+17111.1,19-12-2024,Investment,HDFC,Telangana,Utilities
+11738.67,20-05-2024,Investment,Google Pay,Uttar Pradesh,Donations and Devotion
+44308.29,20-03-2024,Other,ICICI UPI,Odisha,More Services
+41430.68,29-11-2024,Bill Payment,HDFC,Sikkim,Utilities
+17530.6,20-12-2024,Bill Payment,IDFC UPI,Tripura,Financial services and Taxes
+36961.84,05-11-2024,Bill Payment,Razor Pay,Telangana,More Services
+11332.12,08-01-2025,Other,PhonePe,Tamil Nadu,More Services
+17721.43,02-01-2025,Subscription,Other,Punjab,Donations and Devotion
+46915.66,28-12-2024,Other,ICICI UPI,Tripura,Other
+5453.36,28-05-2024,Subscription,Other,Punjab,Financial services and Taxes
+17903.43,25-06-2024,Purchase,PhonePe,Uttarakhand,Investment
+21708.28,01-12-2024,Investment,ICICI UPI,Odisha,Other
+38597.4,06-08-2024,Investment,Google Pay,Odisha,Donations and Devotion
+44155.8,07-01-2025,Refund,HDFC,Uttarakhand,More Services
+20791.78,16-09-2024,Bill Payment,IDFC UPI,Tamil Nadu,Travel bookings
+38854.71,28-12-2024,Other,Other,Uttar Pradesh,Home delivery
+11392.89,30-07-2024,Purchase,Razor Pay,Punjab,Other
+46515.14,06-08-2024,Refund,IDFC UPI,Tripura,Home delivery
+37833.57,29-03-2024,Purchase,Google Pay,Tripura,Donations and Devotion
+20311.55,05-03-2025,Purchase,Other,Odisha,Investment
+37019.76,01-12-2024,Refund,Google Pay,Tripura,Utilities
+41487.1,28-02-2025,Investment,Google Pay,Uttar Pradesh,Utilities
+2275.16,18-01-2025,Purchase,IDFC UPI,Tamil Nadu,Investment
+8196.81,18-03-2024,Investment,Paytm,Punjab,Home delivery
+24306.51,04-12-2024,Bill Payment,Paytm,Punjab,Donations and Devotion
+19253.12,12-10-2024,Other,Razor Pay,Odisha,Utilities
+22937.17,14-04-2024,Investment,Razor Pay,Tripura,More Services
+19773.22,02-08-2024,Purchase,Google Pay,Uttar Pradesh,Donations and Devotion
+38778.24,12-02-2025,Subscription,Razor Pay,Tripura,Investment
+40987.86,08-07-2024,Bill Payment,Google Pay,Sikkim,Donations and Devotion
+31424.87,10-03-2025,Refund,Paytm,Uttarakhand,Investment
+31678.79,06-09-2024,Refund,Other,Uttar Pradesh,Financial services and Taxes
+18199.08,10-09-2024,Investment,HDFC,Sikkim,Investment
+14892.55,09-12-2024,Refund,HDFC,Tamil Nadu,Other
+17501.37,03-12-2024,Other,IDFC UPI,Uttarakhand,Travel bookings
+32912.05,09-04-2024,Purchase,ICICI UPI,Tamil Nadu,Financial services and Taxes
+26990.17,08-02-2025,Purchase,PhonePe,Uttar Pradesh,Home delivery
+33441.36,16-06-2024,Refund,ICICI UPI,Sikkim,Travel bookings
+41765.02,19-06-2024,Bill Payment,HDFC,Rajasthan,Home delivery
+43352.48,13-05-2024,Purchase,ICICI UPI,Sikkim,Other
+24222.8,07-09-2024,Refund,ICICI UPI,Rajasthan,Donations and Devotion
+7878.57,19-08-2024,Bill Payment,Paytm,Sikkim,Other
+7686.28,11-10-2024,Purchase,Razor Pay,Rajasthan,Home delivery
+35134.84,11-05-2024,Investment,PhonePe,Punjab,More Services
+16189.07,04-04-2024,Bill Payment,Razor Pay,Odisha,Travel bookings
+38119.31,24-08-2024,Purchase,ICICI UPI,Uttarakhand,Financial services and Taxes
+8665.87,15-06-2024,Bill Payment,ICICI UPI,Uttar Pradesh,Travel bookings
+6343.45,16-04-2024,Purchase,Google Pay,Tripura,Utilities
+13481.09,28-04-2024,Refund,Google Pay,Odisha,Travel bookings
+10518.36,03-07-2024,Subscription,Razor Pay,Punjab,Travel bookings
+44288.61,15-01-2025,Refund,Other,Punjab,More Services
+11204.11,16-07-2024,Purchase,IDFC UPI,Sikkim,Financial services and Taxes
+23636.55,02-02-2025,Refund,IDFC UPI,West Bengal,Investment
+33685.93,17-04-2024,Bill Payment,ICICI UPI,Uttarakhand,Purchases
+11558.86,09-02-2025,Other,Paytm,Punjab,Other
+21690.5,30-11-2024,Investment,IDFC UPI,Punjab,Home delivery
+4422.33,21-10-2024,Bill Payment,Google Pay,Rajasthan,Investment
+14478.68,30-01-2025,Bill Payment,ICICI UPI,Uttar Pradesh,More Services
+16054.91,06-03-2025,Investment,Google Pay,Odisha,Home delivery
+30799.05,04-12-2024,Bill Payment,PhonePe,Uttarakhand,Financial services and Taxes
+8812.4,22-07-2024,Purchase,PhonePe,Tripura,Donations and Devotion
+18385.03,02-12-2024,Investment,HDFC,Telangana,Utilities
+25738.84,30-01-2025,Investment,Paytm,Tamil Nadu,Investment
+2695.86,24-05-2024,Bill Payment,Razor Pay,Odisha,Travel bookings
+49118.15,30-11-2024,Purchase,IDFC UPI,Tripura,Donations and Devotion
+10384.46,23-10-2024,Bill Payment,Google Pay,Punjab,Investment
+29411.28,27-05-2024,Other,IDFC UPI,Punjab,Purchases
+38341.48,24-01-2025,Subscription,HDFC,Tamil Nadu,More Services
+5158.06,11-09-2024,Subscription,Razor Pay,Sikkim,Other
+1175,19-04-2024,Bill Payment,Other,Punjab,Home delivery
+45728.64,14-02-2025,Subscription,Paytm,Odisha,Donations and Devotion
+21994.4,06-10-2024,Investment,Google Pay,Rajasthan,Home delivery
+26309.07,10-01-2025,Investment,Razor Pay,Telangana,Investment
+11709.23,14-07-2024,Other,Other,Uttar Pradesh,Home delivery
+10512.11,02-11-2024,Subscription,PhonePe,Telangana,Travel bookings
+12646.62,13-03-2024,Bill Payment,IDFC UPI,Tamil Nadu,More Services
+15917.84,21-08-2024,Subscription,IDFC UPI,Uttarakhand,More Services
+31599.74,03-08-2024,Subscription,PhonePe,Odisha,More Services
+29673.32,06-08-2024,Bill Payment,Other,Tripura,Purchases
+26853.58,25-07-2024,Subscription,Razor Pay,Sikkim,Financial services and Taxes
+36272.3,22-07-2024,Bill Payment,IDFC UPI,Tripura,Other
+5564.67,04-02-2025,Other,IDFC UPI,Tamil Nadu,Other
+15237.02,17-05-2024,Subscription,HDFC,West Bengal,Travel bookings
+35094.45,18-10-2024,Bill Payment,Google Pay,Sikkim,Financial services and Taxes
+29465.77,27-06-2024,Purchase,PhonePe,West Bengal,Other
+4840.6,07-01-2025,Subscription,IDFC UPI,West Bengal,More Services
+4197.5,05-02-2025,Refund,Razor Pay,Rajasthan,Utilities
+46088.58,24-10-2024,Refund,HDFC,Uttar Pradesh,More Services
+5913.98,12-05-2024,Bill Payment,Razor Pay,Punjab,More Services
+6425.48,03-12-2024,Bill Payment,Google Pay,Punjab,More Services
+30651.13,14-12-2024,Subscription,IDFC UPI,Rajasthan,Utilities
+5983.02,29-07-2024,Purchase,Paytm,Sikkim,Donations and Devotion
+21091.79,15-11-2024,Investment,HDFC,Punjab,Utilities
+49999.72,07-02-2025,Subscription,HDFC,Uttar Pradesh,Travel bookings
+48212.54,15-02-2025,Investment,HDFC,Tamil Nadu,Donations and Devotion
+37395.92,15-06-2024,Refund,PhonePe,Rajasthan,Investment
+28017.87,17-03-2024,Refund,IDFC UPI,Tamil Nadu,Utilities
+42244.46,13-03-2024,Refund,Paytm,Odisha,Donations and Devotion
+38128.15,20-10-2024,Refund,Google Pay,Tamil Nadu,Other
+22905.65,23-12-2024,Refund,Google Pay,Rajasthan,Donations and Devotion
+29704.36,23-01-2025,Purchase,Google Pay,Odisha,Investment
+2322.08,25-03-2024,Other,IDFC UPI,Tamil Nadu,More Services
+48296.22,03-06-2024,Other,Other,Odisha,Purchases
+30869.53,28-02-2025,Investment,ICICI UPI,Uttar Pradesh,Travel bookings
+16686.22,21-01-2025,Purchase,Razor Pay,West Bengal,Investment
+4941.69,13-07-2024,Purchase,ICICI UPI,Uttar Pradesh,Investment
+21710.51,16-06-2024,Investment,Paytm,Punjab,Other
+11001.27,24-09-2024,Purchase,Paytm,Rajasthan,Travel bookings
+33235.93,02-08-2024,Investment,Other,Uttarakhand,Home delivery
+11615.61,05-06-2024,Investment,Razor Pay,Tripura,Other
+27258.77,14-01-2025,Other,PhonePe,Tamil Nadu,Donations and Devotion
+46055.51,06-05-2024,Bill Payment,HDFC,Odisha,Investment
+49660.55,27-03-2024,Investment,Razor Pay,Sikkim,Financial services and Taxes
+23198.26,21-06-2024,Purchase,PhonePe,West Bengal,Investment
+11942.96,14-04-2024,Other,IDFC UPI,West Bengal,Investment
+22805.31,25-02-2025,Refund,IDFC UPI,Odisha,More Services
+21603.24,03-07-2024,Purchase,Other,Tamil Nadu,Home delivery
+38117.4,26-01-2025,Subscription,HDFC,Uttarakhand,Home delivery
+37655.1,12-07-2024,Subscription,Paytm,Uttar Pradesh,Purchases
+35400.57,21-04-2024,Purchase,HDFC,West Bengal,Home delivery
+32006.94,22-06-2024,Refund,Paytm,Punjab,More Services
+2070.2,10-06-2024,Investment,ICICI UPI,West Bengal,Purchases
+42151.13,21-04-2024,Bill Payment,IDFC UPI,Sikkim,Other
+23206.76,28-08-2024,Investment,Razor Pay,Punjab,Purchases
+36863.4,11-11-2024,Refund,Paytm,Telangana,Home delivery
+23378.49,13-01-2025,Refund,Other,Tamil Nadu,Home delivery
+10168.72,09-12-2024,Refund,Other,Uttar Pradesh,Travel bookings
+36748.66,04-01-2025,Investment,PhonePe,Tripura,Home delivery
+18902.89,26-09-2024,Other,PhonePe,Odisha,Donations and Devotion
+42553.36,03-04-2024,Purchase,Razor Pay,Uttar Pradesh,Purchases
+46381.39,09-10-2024,Investment,PhonePe,Tripura,Other
+19921.88,10-04-2024,Investment,Paytm,Uttarakhand,Donations and Devotion
+16112.01,26-07-2024,Other,IDFC UPI,Telangana,Home delivery
+49544.42,25-05-2024,Subscription,IDFC UPI,West Bengal,Travel bookings
+9673.04,12-07-2024,Bill Payment,HDFC,Uttar Pradesh,Home delivery
+21325.04,24-06-2024,Subscription,Razor Pay,Telangana,Purchases
+32512.06,17-02-2025,Investment,ICICI UPI,Uttar Pradesh,Travel bookings
+34627.45,17-10-2024,Purchase,ICICI UPI,Telangana,Other
+44336.8,26-03-2024,Investment,Google Pay,Odisha,Purchases
+32955,21-07-2024,Bill Payment,PhonePe,Uttarakhand,Donations and Devotion
+24072.86,13-08-2024,Refund,Other,Telangana,Purchases
+9206.26,26-10-2024,Investment,HDFC,Odisha,More Services
+11342.08,28-03-2024,Refund,ICICI UPI,Rajasthan,Purchases
+26439.53,11-12-2024,Other,Paytm,Sikkim,Investment
+27348.8,13-05-2024,Investment,IDFC UPI,Tripura,Purchases
+34827.41,22-08-2024,Investment,PhonePe,Odisha,Home delivery
+40119.34,08-11-2024,Investment,PhonePe,Uttar Pradesh,Investment
+10226.33,05-02-2025,Other,HDFC,Punjab,Travel bookings
+33507.12,19-09-2024,Subscription,HDFC,Odisha,Home delivery
+28303.75,15-04-2024,Subscription,Razor Pay,Tripura,Travel bookings
+31184.38,01-10-2024,Other,IDFC UPI,Punjab,Utilities
+30114.95,23-11-2024,Other,IDFC UPI,Uttar Pradesh,Home delivery
+43043.06,12-05-2024,Bill Payment,Other,Tripura,More Services
+13614.86,17-09-2024,Bill Payment,Razor Pay,Uttar Pradesh,Donations and Devotion
+48571.29,06-03-2025,Bill Payment,Paytm,Sikkim,Purchases
+24298.87,03-08-2024,Purchase,HDFC,Uttar Pradesh,Financial services and Taxes
+32309.6,30-04-2024,Bill Payment,IDFC UPI,Uttar Pradesh,Utilities
+25037.22,17-05-2024,Other,HDFC,Telangana,Home delivery
+40947.47,18-05-2024,Purchase,ICICI UPI,Rajasthan,Home delivery
+10260,10-07-2024,Refund,Other,Uttarakhand,More Services
+9808.03,16-04-2024,Purchase,Other,Uttar Pradesh,Travel bookings
+45312.44,25-07-2024,Refund,PhonePe,Tripura,Financial services and Taxes
+34134.83,07-08-2024,Subscription,ICICI UPI,Rajasthan,Travel bookings
+43629.18,15-04-2024,Purchase,Other,Punjab,Financial services and Taxes
+6330.37,28-02-2025,Bill Payment,Razor Pay,Telangana,Financial services and Taxes
+23490.45,02-11-2024,Refund,IDFC UPI,Tripura,Financial services and Taxes
+6738.83,23-03-2024,Refund,Razor Pay,Telangana,More Services
+20382.5,05-12-2024,Other,HDFC,Punjab,Home delivery
+8224.96,14-12-2024,Subscription,IDFC UPI,Rajasthan,Investment
+13267.3,23-03-2024,Other,ICICI UPI,West Bengal,Travel bookings
+25683.53,06-11-2024,Subscription,ICICI UPI,West Bengal,More Services
+30045.8,06-09-2024,Purchase,PhonePe,West Bengal,Travel bookings
+6259.04,09-06-2024,Refund,Razor Pay,Tamil Nadu,Utilities
+29577.33,08-10-2024,Other,Paytm,Uttar Pradesh,Travel bookings
+30181.47,04-11-2024,Bill Payment,IDFC UPI,West Bengal,Purchases
+14371.81,19-12-2024,Other,Razor Pay,Sikkim,Home delivery
+41246.99,11-01-2025,Other,HDFC,Tripura,Home delivery
+30522.63,11-04-2024,Refund,Razor Pay,Rajasthan,More Services
+27192.85,16-06-2024,Investment,HDFC,Telangana,Travel bookings
+5443.46,13-07-2024,Refund,HDFC,Uttarakhand,Other
+2369.34,08-04-2024,Bill Payment,IDFC UPI,Telangana,Other
+34942.22,29-04-2024,Bill Payment,PhonePe,Rajasthan,Investment
+40113.48,28-11-2024,Investment,Other,Odisha,Donations and Devotion
+12707.09,20-05-2024,Refund,Other,Tamil Nadu,More Services
+5805.75,04-08-2024,Investment,IDFC UPI,Sikkim,Other
+1963.17,01-05-2024,Purchase,Razor Pay,Rajasthan,Other
+8729.07,20-04-2024,Bill Payment,IDFC UPI,Odisha,More Services
+43145.68,30-05-2024,Subscription,Paytm,Telangana,Financial services and Taxes
+47242.31,30-04-2024,Refund,Paytm,Sikkim,More Services
+38212.04,15-04-2024,Other,IDFC UPI,Rajasthan,Travel bookings
+29626.43,07-05-2024,Investment,Paytm,Tamil Nadu,Investment
+32827.92,28-01-2025,Investment,HDFC,Rajasthan,Donations and Devotion
+33572.47,12-02-2025,Subscription,HDFC,Sikkim,Home delivery
+2577.04,01-01-2025,Refund,Google Pay,Uttarakhand,Financial services and Taxes
+11100.74,03-09-2024,Refund,Other,Tamil Nadu,More Services
+49817.68,11-02-2025,Bill Payment,PhonePe,Rajasthan,More Services
+23943.95,02-09-2024,Purchase,PhonePe,Tamil Nadu,Home delivery
+5733.24,20-07-2024,Other,Razor Pay,Uttarakhand,Home delivery
+46860.14,15-02-2025,Investment,Google Pay,Telangana,Donations and Devotion
+37707.64,12-12-2024,Refund,Paytm,Sikkim,Home delivery
+45000.77,09-02-2025,Bill Payment,Other,Uttarakhand,Home delivery
+48370.83,06-05-2024,Other,ICICI UPI,Tripura,Donations and Devotion
+39047.52,23-03-2024,Subscription,Other,Odisha,Purchases
+28877.35,11-08-2024,Subscription,HDFC,Rajasthan,Utilities
+7510.75,16-10-2024,Investment,Google Pay,Uttar Pradesh,More Services
+3195.6,01-04-2024,Purchase,Google Pay,Sikkim,Donations and Devotion
+23272.63,16-05-2024,Investment,Razor Pay,Uttarakhand,Utilities
+9565.81,30-07-2024,Purchase,Razor Pay,Uttar Pradesh,Financial services and Taxes
+25477.02,24-01-2025,Purchase,HDFC,West Bengal,Purchases
+26933.86,07-12-2024,Subscription,IDFC UPI,Sikkim,Financial services and Taxes
+47479,11-04-2024,Bill Payment,ICICI UPI,Uttar Pradesh,Travel bookings
+12791.42,28-11-2024,Bill Payment,ICICI UPI,Telangana,Financial services and Taxes
+47381.14,27-02-2025,Refund,Other,Telangana,Home delivery
+41607.49,23-06-2024,Refund,Google Pay,Uttarakhand,Utilities
+26496.28,24-04-2024,Other,Google Pay,Punjab,More Services
+20877.93,17-12-2024,Subscription,Paytm,Sikkim,Travel bookings
+2333.08,31-05-2024,Other,Other,Tripura,Purchases
+2711.47,11-07-2024,Subscription,Google Pay,Sikkim,More Services
+30534.01,10-04-2024,Purchase,Google Pay,Odisha,Other
+38035.93,21-06-2024,Investment,Other,West Bengal,Home delivery
+29743.54,13-10-2024,Bill Payment,Paytm,Uttar Pradesh,Utilities
+3500.62,19-03-2024,Investment,Paytm,Uttar Pradesh,Financial services and Taxes
+31306.57,20-08-2024,Refund,Google Pay,West Bengal,Purchases
+47902.97,19-02-2025,Other,ICICI UPI,Tamil Nadu,Other
+37307.8,27-07-2024,Subscription,Razor Pay,Sikkim,Travel bookings
+27424.93,04-11-2024,Investment,Paytm,Tamil Nadu,Donations and Devotion
+22355.57,07-04-2024,Investment,IDFC UPI,West Bengal,Other
+4289.92,29-06-2024,Other,Paytm,Tamil Nadu,Other
+17226.51,31-12-2024,Other,Paytm,Telangana,Investment
+16171.31,09-01-2025,Purchase,IDFC UPI,Odisha,Home delivery
+8983.05,16-06-2024,Other,Other,Sikkim,Investment
+10029.1,31-03-2024,Bill Payment,Google Pay,Punjab,More Services
+21213.97,02-02-2025,Subscription,IDFC UPI,Uttarakhand,Home delivery
+16661.77,29-04-2024,Bill Payment,Other,Uttar Pradesh,Donations and Devotion
+38146.17,03-06-2024,Refund,Razor Pay,Uttarakhand,Home delivery
+19148.93,20-06-2024,Refund,Razor Pay,Sikkim,Purchases
+44801.33,06-03-2025,Bill Payment,Google Pay,Rajasthan,Investment
+1901.39,10-06-2024,Subscription,Razor Pay,Odisha,Donations and Devotion
+35143.58,27-09-2024,Refund,Google Pay,Odisha,Utilities
+26564.02,17-05-2024,Purchase,PhonePe,Rajasthan,Utilities
+41792.14,07-02-2025,Investment,Google Pay,Punjab,More Services
+26385.95,01-09-2024,Other,PhonePe,Telangana,Purchases
+5873.23,28-12-2024,Subscription,IDFC UPI,Rajasthan,Utilities
+47408.32,29-10-2024,Other,HDFC,Rajasthan,Other
+20354.19,09-07-2024,Refund,PhonePe,Punjab,Other
+32630.89,07-02-2025,Other,Razor Pay,Rajasthan,Utilities
+49468.19,22-01-2025,Subscription,ICICI UPI,Uttarakhand,Other
+45081.05,07-02-2025,Subscription,Razor Pay,Odisha,Financial services and Taxes
+48670.86,14-12-2024,Bill Payment,ICICI UPI,Rajasthan,Home delivery
+12603.41,19-10-2024,Purchase,Other,Tripura,Donations and Devotion
+5003.62,15-08-2024,Bill Payment,Paytm,Tripura,Donations and Devotion
+45251.33,24-02-2025,Refund,Google Pay,Uttarakhand,Purchases
+18466.58,18-08-2024,Purchase,IDFC UPI,Uttarakhand,Donations and Devotion
+36154.63,24-06-2024,Other,HDFC,West Bengal,Home delivery
+17763.03,27-04-2024,Subscription,Paytm,Tripura,More Services
+29152.31,20-04-2024,Other,IDFC UPI,Tamil Nadu,Investment
+36873.98,10-05-2024,Subscription,HDFC,Tripura,Utilities
+34922.85,06-10-2024,Investment,HDFC,Odisha,Utilities
+9282.07,05-08-2024,Other,Google Pay,Sikkim,More Services
+20512.64,12-09-2024,Other,Google Pay,Uttarakhand,Travel bookings
+48343.75,21-11-2024,Subscription,ICICI UPI,Sikkim,Utilities
+43247.19,03-03-2025,Other,Google Pay,Odisha,Home delivery
+33398.3,07-11-2024,Bill Payment,Paytm,Uttarakhand,Financial services and Taxes
+9400.3,14-12-2024,Refund,Other,Uttarakhand,Home delivery
+2101.87,21-07-2024,Refund,ICICI UPI,Tamil Nadu,Purchases
+6262.69,04-05-2024,Subscription,ICICI UPI,Telangana,Other
+21996.84,13-03-2024,Subscription,PhonePe,Rajasthan,Donations and Devotion
+24054.96,23-04-2024,Refund,Paytm,Tripura,Travel bookings
+44894.26,12-12-2024,Subscription,Other,Uttar Pradesh,Utilities
+28123.1,26-04-2024,Other,PhonePe,Odisha,Donations and Devotion
+18567.53,18-03-2024,Subscription,Google Pay,Sikkim,Other
+28309.91,04-04-2024,Refund,Razor Pay,Odisha,Home delivery
+10341.07,24-10-2024,Refund,IDFC UPI,Tamil Nadu,Investment
+43496.49,08-01-2025,Refund,HDFC,Tamil Nadu,Purchases
+13512.9,30-09-2024,Refund,IDFC UPI,West Bengal,Home delivery
+34332.13,06-07-2024,Bill Payment,IDFC UPI,Odisha,Purchases
+37726.24,25-02-2025,Investment,HDFC,Uttar Pradesh,Home delivery
+21787.42,01-12-2024,Purchase,Google Pay,Uttar Pradesh,More Services
+41492.64,21-06-2024,Other,HDFC,Uttar Pradesh,Home delivery
+11325.1,06-03-2025,Subscription,IDFC UPI,Uttarakhand,More Services
+2958.32,21-05-2024,Bill Payment,Other,Telangana,Travel bookings
+1319.34,29-01-2025,Refund,HDFC,West Bengal,Other
+31525.93,30-06-2024,Bill Payment,Paytm,Tripura,Utilities
+32808.61,01-07-2024,Investment,IDFC UPI,Tripura,Other
+5529.9,30-08-2024,Subscription,HDFC,Tripura,Financial services and Taxes
+9295.67,22-06-2024,Investment,Razor Pay,Uttar Pradesh,Investment
+49891.67,03-05-2024,Subscription,IDFC UPI,West Bengal,Home delivery
+33033.51,27-11-2024,Subscription,IDFC UPI,Telangana,Investment
+17739.09,14-06-2024,Refund,PhonePe,Tripura,Travel bookings
+25838.84,06-02-2025,Other,Paytm,Uttar Pradesh,Financial services and Taxes
+16688.57,22-04-2024,Other,Google Pay,Odisha,Investment
+13027.47,20-01-2025,Subscription,ICICI UPI,Odisha,Other
+7260.07,20-05-2024,Refund,ICICI UPI,Sikkim,Utilities
+19154.85,30-03-2024,Investment,IDFC UPI,Sikkim,Home delivery
+5357.29,06-09-2024,Bill Payment,HDFC,Tamil Nadu,Other
+1245.19,04-08-2024,Purchase,Google Pay,Uttar Pradesh,Home delivery
+21845.15,08-07-2024,Bill Payment,Google Pay,Uttar Pradesh,Donations and Devotion
+48778.36,31-10-2024,Bill Payment,Google Pay,Telangana,Utilities
+40925.29,02-03-2025,Bill Payment,IDFC UPI,Odisha,Home delivery
+17326.59,09-01-2025,Purchase,IDFC UPI,Tamil Nadu,Home delivery
+23299.11,31-07-2024,Refund,Paytm,Rajasthan,Purchases
+42887.88,10-10-2024,Subscription,ICICI UPI,Punjab,Donations and Devotion
+31816.85,06-07-2024,Investment,Razor Pay,Punjab,Financial services and Taxes
+4870.05,10-06-2024,Bill Payment,ICICI UPI,Tamil Nadu,Utilities
+33237.91,03-07-2024,Purchase,PhonePe,West Bengal,Other
+9478.22,30-01-2025,Purchase,Razor Pay,Sikkim,More Services
+16531.97,14-08-2024,Purchase,PhonePe,Sikkim,Travel bookings
+9396.75,22-07-2024,Investment,HDFC,Tripura,Purchases
+30208.8,20-10-2024,Bill Payment,Razor Pay,Uttarakhand,Purchases
+40792.13,23-04-2024,Subscription,IDFC UPI,Odisha,Financial services and Taxes
+47374.47,26-06-2024,Other,HDFC,Telangana,Donations and Devotion
+5760.86,21-01-2025,Other,Google Pay,Tripura,Travel bookings
+31377.23,19-04-2024,Subscription,PhonePe,Uttar Pradesh,Travel bookings
+20700.81,23-11-2024,Refund,HDFC,Odisha,Investment
+37312.07,12-04-2024,Other,Paytm,Uttar Pradesh,Other
+12830.97,01-07-2024,Investment,PhonePe,Punjab,Purchases
+11482.46,12-01-2025,Other,PhonePe,Punjab,Donations and Devotion
+24371.13,14-06-2024,Other,Other,West Bengal,More Services
+6078.93,18-01-2025,Purchase,Google Pay,Tripura,Other
+9983.99,09-04-2024,Purchase,Razor Pay,Uttar Pradesh,Other
+4750.13,03-07-2024,Other,Paytm,Rajasthan,Utilities
+29625.32,24-08-2024,Purchase,Razor Pay,Tripura,Investment
+27227.84,31-10-2024,Subscription,PhonePe,Odisha,Travel bookings
+13632.83,01-10-2024,Other,Google Pay,Telangana,Financial services and Taxes
+39077.83,08-10-2024,Subscription,Google Pay,Sikkim,Travel bookings
+15402.11,16-07-2024,Refund,HDFC,Rajasthan,Home delivery
+30324.27,26-02-2025,Bill Payment,Other,Punjab,Purchases
+45070.79,03-07-2024,Other,PhonePe,Uttar Pradesh,Donations and Devotion
+35483.95,13-03-2024,Refund,ICICI UPI,Uttar Pradesh,Travel bookings
+23383.06,01-12-2024,Subscription,ICICI UPI,Sikkim,Investment
+10923.09,30-12-2024,Subscription,PhonePe,Tripura,Purchases
+22921.89,10-11-2024,Refund,HDFC,Uttarakhand,Other
+3166.22,22-11-2024,Subscription,Paytm,Odisha,Home delivery
+46405.08,21-06-2024,Refund,Other,Odisha,Travel bookings
+39281.01,22-02-2025,Other,ICICI UPI,Uttarakhand,Donations and Devotion
+33551.28,13-01-2025,Other,ICICI UPI,Rajasthan,Other
+46073.6,22-01-2025,Purchase,IDFC UPI,West Bengal,Purchases
+6898.19,05-12-2024,Investment,Razor Pay,Sikkim,Donations and Devotion
+12599.96,23-04-2024,Refund,Other,Uttarakhand,More Services
+3256.23,09-09-2024,Investment,HDFC,Odisha,Travel bookings
+40882.4,06-10-2024,Investment,Paytm,Sikkim,Travel bookings
+18548.58,05-01-2025,Bill Payment,ICICI UPI,Odisha,Financial services and Taxes
+49932.41,02-06-2024,Subscription,Google Pay,Sikkim,Investment
+49617.17,02-11-2024,Refund,Google Pay,Telangana,Utilities
+23894.65,14-07-2024,Investment,Paytm,Rajasthan,Other
+27582.06,12-05-2024,Refund,PhonePe,West Bengal,Donations and Devotion
+38968.29,04-03-2025,Refund,ICICI UPI,Tripura,Utilities
+10532.3,22-08-2024,Refund,Other,Odisha,Financial services and Taxes
+37902.29,13-11-2024,Investment,Other,Punjab,Donations and Devotion
+38851.11,05-07-2024,Purchase,IDFC UPI,Telangana,More Services
+2999.56,05-11-2024,Purchase,Paytm,Uttar Pradesh,Purchases
+21158.46,07-05-2024,Bill Payment,Razor Pay,Sikkim,Other
+15616.85,01-10-2024,Subscription,PhonePe,Odisha,Utilities
+15786.81,16-04-2024,Bill Payment,ICICI UPI,Tripura,Utilities
+34643.02,13-08-2024,Refund,Razor Pay,Tamil Nadu,Financial services and Taxes
+43017.63,07-08-2024,Refund,HDFC,Tamil Nadu,Investment
+17999.41,17-12-2024,Bill Payment,HDFC,Odisha,Utilities
+37492.2,11-12-2024,Other,Paytm,West Bengal,Home delivery
+22474.38,06-08-2024,Purchase,ICICI UPI,Tamil Nadu,Utilities
+45519.03,10-06-2024,Investment,IDFC UPI,Tripura,Investment
+45206.69,31-08-2024,Refund,Google Pay,Sikkim,Other
+24749.11,10-06-2024,Purchase,IDFC UPI,Rajasthan,Home delivery
+30503.88,29-07-2024,Bill Payment,PhonePe,Rajasthan,Other
+19391.27,03-06-2024,Bill Payment,Razor Pay,Rajasthan,Home delivery
+14560.61,20-08-2024,Refund,IDFC UPI,Uttarakhand,Financial services and Taxes
+1598.21,11-01-2025,Subscription,HDFC,Sikkim,Home delivery
+37674.24,04-03-2025,Subscription,PhonePe,Uttarakhand,Other
+40513.49,24-11-2024,Other,Other,Telangana,Travel bookings
+33785.98,30-07-2024,Refund,ICICI UPI,Telangana,Travel bookings
+17609.23,12-09-2024,Investment,HDFC,Punjab,Utilities
+23511.72,25-12-2024,Refund,IDFC UPI,Telangana,Home delivery
+17906.61,16-11-2024,Refund,HDFC,Tripura,Other
+23013.8,21-01-2025,Subscription,PhonePe,Tripura,Home delivery
+32888.53,08-10-2024,Investment,Razor Pay,Uttarakhand,Investment
+33173.99,21-02-2025,Bill Payment,PhonePe,Sikkim,Other
+35173.82,16-12-2024,Refund,Paytm,Uttar Pradesh,Financial services and Taxes
+48534.41,01-07-2024,Other,Google Pay,Uttarakhand,Purchases
+35469.15,01-12-2024,Other,Other,Sikkim,Donations and Devotion
+13275.92,27-09-2024,Other,Razor Pay,Rajasthan,Home delivery
+34761.16,24-09-2024,Bill Payment,Google Pay,Tamil Nadu,Home delivery
+43148.81,24-08-2024,Other,Razor Pay,Tripura,Other
+6935.36,01-07-2024,Bill Payment,Other,Uttar Pradesh,Purchases
+6363.47,29-08-2024,Other,Razor Pay,Tripura,Utilities
+24305.59,21-06-2024,Investment,Razor Pay,Uttarakhand,Other
+18020.88,04-01-2025,Bill Payment,ICICI UPI,Punjab,Travel bookings
+37767.72,26-01-2025,Investment,HDFC,Odisha,Donations and Devotion
+40926.07,31-01-2025,Refund,PhonePe,Odisha,Other
+2616.34,11-04-2024,Subscription,HDFC,Punjab,More Services
+6819.35,24-08-2024,Purchase,Razor Pay,Uttarakhand,Financial services and Taxes
+24333.83,27-05-2024,Subscription,Paytm,Punjab,More Services
+24835.72,02-01-2025,Subscription,IDFC UPI,Rajasthan,Investment
+28110.46,04-06-2024,Refund,PhonePe,West Bengal,Utilities
+48730.44,05-08-2024,Other,Razor Pay,Rajasthan,Utilities
+20108.76,15-05-2024,Bill Payment,HDFC,Rajasthan,Travel bookings
+14110,16-06-2024,Subscription,Other,Tamil Nadu,Utilities
+9082.21,29-07-2024,Investment,Other,Tamil Nadu,Donations and Devotion
+4544.03,17-04-2024,Purchase,HDFC,Telangana,Financial services and Taxes
+26199.84,03-04-2024,Other,PhonePe,Odisha,Other
+33410.72,15-11-2024,Refund,PhonePe,Tamil Nadu,Donations and Devotion
+12397.03,25-04-2024,Subscription,Paytm,Tamil Nadu,Purchases
+34461.7,16-12-2024,Purchase,Paytm,Telangana,Financial services and Taxes
+10259.36,22-04-2024,Investment,Razor Pay,Odisha,Donations and Devotion
+40417.98,29-03-2024,Other,Other,Punjab,Other
+15116.14,12-04-2024,Bill Payment,HDFC,Punjab,Financial services and Taxes
+16827.67,19-02-2025,Subscription,PhonePe,Tamil Nadu,Utilities
+26514.02,21-05-2024,Refund,Paytm,Uttarakhand,Donations and Devotion
+37005.31,23-09-2024,Purchase,Paytm,Uttarakhand,Home delivery
+8989.56,05-09-2024,Subscription,IDFC UPI,West Bengal,Other
+18271.09,03-10-2024,Purchase,HDFC,Tripura,Purchases
+8380.42,04-09-2024,Investment,Razor Pay,Punjab,Investment
+11162.95,03-12-2024,Investment,HDFC,Sikkim,Investment
+11930.44,07-08-2024,Purchase,ICICI UPI,West Bengal,Home delivery
+48557.06,12-02-2025,Other,IDFC UPI,West Bengal,Financial services and Taxes
+31055.7,31-07-2024,Bill Payment,Other,Tamil Nadu,Donations and Devotion
+3731.57,25-01-2025,Investment,IDFC UPI,Uttarakhand,Financial services and Taxes
+6793.63,15-12-2024,Investment,IDFC UPI,West Bengal,Home delivery
+42299.91,07-03-2025,Other,HDFC,Odisha,Purchases
+10292.94,21-05-2024,Investment,Google Pay,Uttarakhand,Purchases
+27146.37,04-05-2024,Refund,PhonePe,Telangana,Home delivery
+34828.63,19-07-2024,Bill Payment,Paytm,Tripura,Donations and Devotion
+41303.32,11-04-2024,Investment,Google Pay,Telangana,Purchases
+39050.56,24-08-2024,Bill Payment,IDFC UPI,Sikkim,Travel bookings
+2740.75,09-07-2024,Purchase,Other,Tripura,Travel bookings
+47809.46,04-06-2024,Subscription,Paytm,Uttarakhand,Financial services and Taxes
+47666.09,17-12-2024,Purchase,Paytm,West Bengal,More Services
+7986.46,09-07-2024,Investment,Razor Pay,Rajasthan,Utilities
+37063.73,29-12-2024,Refund,Paytm,Rajasthan,Investment
+41548.08,28-08-2024,Purchase,ICICI UPI,Tripura,Investment
+17568.07,16-10-2024,Subscription,HDFC,Tripura,Donations and Devotion
+34107.38,15-06-2024,Refund,Other,Uttar Pradesh,Home delivery
+42430.73,26-11-2024,Other,Google Pay,Tamil Nadu,Purchases
+47888.37,08-07-2024,Other,PhonePe,Punjab,Utilities
+25540.68,07-11-2024,Investment,HDFC,Rajasthan,Other
+27225.21,08-08-2024,Investment,PhonePe,Uttarakhand,Other
+41999.81,06-01-2025,Investment,Google Pay,Telangana,Investment
+32207.93,03-05-2024,Other,Razor Pay,Odisha,Utilities
+3421.73,18-09-2024,Refund,Paytm,Sikkim,Travel bookings
+12702.36,04-11-2024,Refund,Razor Pay,Telangana,Other
+36700.08,04-11-2024,Refund,ICICI UPI,Uttarakhand,Donations and Devotion
+19563.91,26-01-2025,Subscription,Google Pay,Rajasthan,Other
+10422.94,09-01-2025,Other,Google Pay,Tripura,Investment
+15608.55,31-07-2024,Purchase,Google Pay,Odisha,Donations and Devotion
+20720.1,15-02-2025,Other,IDFC UPI,Telangana,Purchases
+1743.19,03-05-2024,Purchase,Other,Tamil Nadu,Other
+42943.9,03-06-2024,Refund,ICICI UPI,Rajasthan,Financial services and Taxes
+17548.59,29-04-2024,Refund,PhonePe,Sikkim,Travel bookings
+36593.42,01-01-2025,Bill Payment,IDFC UPI,Tripura,Home delivery
+36674.86,25-06-2024,Other,IDFC UPI,Tripura,Travel bookings
+8584.04,30-09-2024,Bill Payment,IDFC UPI,Uttarakhand,Other
+21589.02,04-07-2024,Purchase,Paytm,Uttar Pradesh,Other
+26761.94,13-02-2025,Subscription,PhonePe,Uttarakhand,Donations and Devotion
+25220.66,08-01-2025,Subscription,Google Pay,Tripura,Home delivery
+46022.62,13-07-2024,Purchase,ICICI UPI,Rajasthan,Donations and Devotion
+38307.25,02-03-2025,Refund,Other,West Bengal,Purchases
+16070.09,04-08-2024,Investment,Razor Pay,Tripura,Donations and Devotion
+43232.24,07-04-2024,Other,PhonePe,Rajasthan,Donations and Devotion
+15326.34,04-03-2025,Subscription,Google Pay,Uttarakhand,Investment
+8341.2,30-01-2025,Investment,Google Pay,Tripura,Other
+9225.77,19-06-2024,Bill Payment,ICICI UPI,Uttar Pradesh,More Services
+30046.88,13-07-2024,Subscription,IDFC UPI,West Bengal,More Services
+40347.25,15-02-2025,Subscription,PhonePe,Tamil Nadu,Financial services and Taxes
+24429.86,26-10-2024,Other,IDFC UPI,Rajasthan,Donations and Devotion
+39484.19,04-05-2024,Subscription,Google Pay,Telangana,Donations and Devotion
+38881.07,23-01-2025,Purchase,PhonePe,Sikkim,More Services
+20901.08,13-06-2024,Refund,Other,Rajasthan,Home delivery
+33468.14,19-10-2024,Refund,ICICI UPI,Telangana,Other
+46944.48,04-03-2025,Investment,Other,Punjab,Home delivery
+33341.69,04-07-2024,Investment,PhonePe,Uttar Pradesh,Financial services and Taxes
+26418.8,04-10-2024,Other,Paytm,Telangana,Financial services and Taxes
+41341.71,25-11-2024,Subscription,HDFC,West Bengal,More Services
+14223.2,06-12-2024,Bill Payment,Razor Pay,Uttar Pradesh,Home delivery
+18290.38,28-12-2024,Purchase,Paytm,Odisha,Financial services and Taxes
+1402.16,31-10-2024,Other,Google Pay,Uttarakhand,Travel bookings
+45016.79,16-05-2024,Purchase,ICICI UPI,Uttar Pradesh,Financial services and Taxes
+33607.35,05-11-2024,Refund,PhonePe,Rajasthan,Utilities
+1135.42,21-02-2025,Investment,HDFC,Uttar Pradesh,Purchases
+1898.54,16-03-2024,Other,IDFC UPI,Rajasthan,Donations and Devotion
+22566.55,07-09-2024,Purchase,Razor Pay,Punjab,Utilities
+37724.53,28-02-2025,Bill Payment,Other,Punjab,Donations and Devotion
+40369.08,21-11-2024,Purchase,ICICI UPI,Punjab,More Services
+3375.09,06-03-2025,Refund,HDFC,Tripura,Other
+21142.15,11-12-2024,Purchase,HDFC,Tamil Nadu,Home delivery
+42516.64,06-03-2025,Purchase,PhonePe,Tamil Nadu,Utilities
+46492.14,23-11-2024,Bill Payment,IDFC UPI,Rajasthan,More Services
+21135.84,30-09-2024,Bill Payment,Paytm,Uttar Pradesh,Other
+38452.48,26-08-2024,Refund,ICICI UPI,Tripura,Purchases
+41008.2,18-06-2024,Bill Payment,Paytm,Tamil Nadu,Purchases
+47928.74,13-11-2024,Subscription,ICICI UPI,Odisha,More Services
+23323.11,04-10-2024,Subscription,Other,Tamil Nadu,Purchases
+14157.6,23-09-2024,Other,Other,Telangana,Utilities
+28061.27,05-06-2024,Purchase,Other,Punjab,Donations and Devotion
+20464.28,29-10-2024,Refund,Razor Pay,Punjab,Purchases
+49240.94,31-10-2024,Subscription,Google Pay,Uttar Pradesh,Travel bookings
+21405.49,13-10-2024,Refund,HDFC,Sikkim,Home delivery
+8650.74,25-09-2024,Other,Razor Pay,Sikkim,Purchases
+26174.37,04-12-2024,Subscription,Google Pay,Uttarakhand,Financial services and Taxes
+18230.45,19-11-2024,Subscription,PhonePe,Tripura,Donations and Devotion
+12028.23,01-10-2024,Refund,IDFC UPI,Odisha,Home delivery
+23810.14,24-07-2024,Other,IDFC UPI,Uttarakhand,Donations and Devotion
+41359.58,23-11-2024,Refund,PhonePe,Tripura,Home delivery
+12625.71,24-07-2024,Bill Payment,PhonePe,Tamil Nadu,Other
+39927.54,18-03-2024,Investment,IDFC UPI,Punjab,Utilities
+40258.29,20-05-2024,Subscription,Razor Pay,Tripura,Utilities
+20660.94,10-01-2025,Purchase,Google Pay,Rajasthan,Purchases
+35620.32,10-12-2024,Purchase,HDFC,Sikkim,Donations and Devotion
+35247.01,19-12-2024,Investment,ICICI UPI,Tamil Nadu,Investment
+35297.59,15-04-2024,Other,Google Pay,Uttar Pradesh,Other
+42900.15,16-04-2024,Purchase,Razor Pay,West Bengal,Travel bookings
+45859.59,22-07-2024,Purchase,ICICI UPI,Sikkim,Financial services and Taxes
+47838.6,17-12-2024,Bill Payment,PhonePe,Uttarakhand,Investment
+28304.96,25-08-2024,Investment,Razor Pay,Uttar Pradesh,Other
+18772.44,19-06-2024,Refund,Razor Pay,Uttarakhand,Other
+49894.11,03-08-2024,Other,IDFC UPI,Uttar Pradesh,Donations and Devotion
+1275.23,20-11-2024,Bill Payment,Razor Pay,Odisha,Other
+7555.73,17-08-2024,Investment,Razor Pay,West Bengal,Purchases
+7058.38,03-12-2024,Other,Other,Telangana,Utilities
+34021.66,17-10-2024,Refund,ICICI UPI,Tripura,Purchases
+23305.46,27-08-2024,Investment,Google Pay,Tamil Nadu,Donations and Devotion
+10879.21,19-05-2024,Other,Google Pay,Punjab,More Services
+10877.03,20-12-2024,Subscription,Paytm,Tamil Nadu,More Services
+46978.58,25-04-2024,Subscription,Google Pay,Rajasthan,Other
+20868.27,05-01-2025,Other,Google Pay,Tamil Nadu,Investment
+45870.19,18-06-2024,Other,Other,Rajasthan,Home delivery
+22104.92,14-02-2025,Purchase,HDFC,Sikkim,Financial services and Taxes
+17369.41,03-10-2024,Refund,IDFC UPI,Odisha,Purchases
+15793.47,17-02-2025,Subscription,IDFC UPI,Sikkim,Utilities
+45479.03,13-08-2024,Other,HDFC,Odisha,Other
+11254.12,31-12-2024,Investment,Paytm,Tamil Nadu,Other
+27743.23,05-07-2024,Investment,Paytm,Tripura,Investment
+35336.67,31-01-2025,Refund,Razor Pay,Telangana,Utilities
+25762.06,01-07-2024,Subscription,Google Pay,Tamil Nadu,Other
+39627.7,26-02-2025,Investment,PhonePe,Odisha,Financial services and Taxes
+21132.47,13-10-2024,Subscription,Razor Pay,Tripura,More Services
+41279.1,30-04-2024,Bill Payment,HDFC,Tripura,Purchases
+45699.62,25-10-2024,Purchase,ICICI UPI,Telangana,Other
+37033.08,11-06-2024,Subscription,PhonePe,Uttarakhand,Travel bookings
+36693.78,23-05-2024,Refund,Other,Uttarakhand,More Services
+44849.37,08-08-2024,Purchase,ICICI UPI,Telangana,Financial services and Taxes
+7605.16,14-08-2024,Investment,PhonePe,Rajasthan,Investment
+49394.46,29-05-2024,Other,Razor Pay,Punjab,Utilities
+45247.45,16-03-2024,Bill Payment,PhonePe,Uttar Pradesh,Investment
+28804.56,18-02-2025,Purchase,HDFC,Odisha,Financial services and Taxes
+12406.95,15-12-2024,Purchase,ICICI UPI,Uttar Pradesh,Investment
+31546.35,22-01-2025,Investment,ICICI UPI,Tamil Nadu,Purchases
+36291.36,26-08-2024,Bill Payment,IDFC UPI,Rajasthan,Travel bookings
+38097.77,22-12-2024,Purchase,Other,Tripura,Purchases
+6243.43,30-11-2024,Subscription,Razor Pay,Telangana,Other
+42093.68,13-09-2024,Purchase,ICICI UPI,Tamil Nadu,Investment
+11448.2,03-07-2024,Bill Payment,Razor Pay,Uttar Pradesh,More Services
+2700.53,31-12-2024,Refund,Other,Rajasthan,Travel bookings
+29126.19,22-10-2024,Other,Razor Pay,West Bengal,Travel bookings
+35360.69,09-02-2025,Other,Google Pay,West Bengal,Purchases
+22415.68,09-08-2024,Subscription,Razor Pay,Uttarakhand,Purchases
+45722.21,09-07-2024,Purchase,Google Pay,Punjab,Purchases
+48026.46,01-11-2024,Purchase,PhonePe,Telangana,Utilities
+45935.86,29-12-2024,Subscription,Google Pay,Tamil Nadu,Utilities
+27606.48,06-09-2024,Purchase,HDFC,West Bengal,Donations and Devotion
+3114,13-12-2024,Refund,Other,Punjab,Donations and Devotion
+29008.66,20-09-2024,Purchase,Other,Tamil Nadu,Utilities
+22865.37,06-06-2024,Investment,Paytm,Uttar Pradesh,Home delivery
+34655.68,04-05-2024,Subscription,IDFC UPI,Uttarakhand,Travel bookings
+23554.93,22-06-2024,Other,Paytm,Uttar Pradesh,Home delivery
+11591.04,27-04-2024,Purchase,Google Pay,West Bengal,Investment
+21438.1,29-10-2024,Investment,Razor Pay,Uttar Pradesh,Investment
+17624.38,17-07-2024,Bill Payment,Other,Telangana,Financial services and Taxes
+31292.45,10-11-2024,Other,HDFC,Uttarakhand,More Services
+8459.95,08-05-2024,Other,Razor Pay,Uttar Pradesh,Investment
+28400.2,24-12-2024,Bill Payment,Google Pay,Punjab,Financial services and Taxes
+22789.81,05-09-2024,Other,Google Pay,Uttar Pradesh,Travel bookings
+47019.2,19-09-2024,Refund,HDFC,Telangana,Utilities
+39702.88,10-08-2024,Investment,Other,Telangana,Donations and Devotion
+41499.27,25-11-2024,Other,Google Pay,Tripura,Travel bookings
+34652.13,16-09-2024,Other,Paytm,West Bengal,Donations and Devotion
+36778.22,25-05-2024,Purchase,ICICI UPI,Odisha,Investment
+18847.35,03-01-2025,Subscription,Paytm,Tamil Nadu,Utilities
+32169.49,19-12-2024,Refund,Paytm,Sikkim,Home delivery
+39887.11,11-12-2024,Refund,PhonePe,Punjab,Investment
+25894.02,01-08-2024,Bill Payment,Google Pay,Sikkim,More Services
+4276.66,09-03-2025,Other,ICICI UPI,Uttarakhand,Utilities
+40474.79,19-12-2024,Investment,IDFC UPI,Sikkim,More Services
+32401.94,13-03-2024,Subscription,Paytm,Uttarakhand,Utilities
+15124.75,31-08-2024,Purchase,Paytm,Tamil Nadu,Financial services and Taxes
+18963.01,29-05-2024,Purchase,Paytm,Telangana,Utilities
+38450.2,21-04-2024,Bill Payment,PhonePe,Telangana,Travel bookings
+17337.56,27-01-2025,Subscription,IDFC UPI,Punjab,Investment
+4443.4,18-05-2024,Bill Payment,HDFC,Uttar Pradesh,Travel bookings
+46603.89,28-03-2024,Subscription,IDFC UPI,Rajasthan,Financial services and Taxes
+1977.73,02-03-2025,Refund,IDFC UPI,Uttar Pradesh,Donations and Devotion
+45280.34,13-03-2024,Subscription,Other,Odisha,Other
+14162.06,06-08-2024,Purchase,Razor Pay,Tripura,More Services
+46989.13,01-05-2024,Subscription,PhonePe,Tripura,Purchases
+31912.82,17-08-2024,Investment,Paytm,Odisha,More Services
+23026.6,01-03-2025,Bill Payment,Google Pay,Tripura,Other
+19805.13,20-06-2024,Investment,ICICI UPI,Uttarakhand,Donations and Devotion
+23115.7,14-01-2025,Subscription,Other,Telangana,Investment
+6747.35,12-11-2024,Investment,IDFC UPI,Tripura,Utilities
+2544.12,10-09-2024,Purchase,Razor Pay,Tripura,Purchases
+32018.57,07-02-2025,Subscription,IDFC UPI,Telangana,Travel bookings
+13554.82,22-03-2024,Refund,Paytm,Telangana,Other
+45523.22,02-11-2024,Refund,Razor Pay,Uttarakhand,Other
+12786.04,22-07-2024,Subscription,PhonePe,Telangana,Purchases
+7431.45,01-03-2025,Purchase,ICICI UPI,Odisha,Donations and Devotion
+11756.26,23-05-2024,Subscription,Google Pay,Uttar Pradesh,Home delivery
+31329.2,11-09-2024,Bill Payment,ICICI UPI,Tripura,Other
+24210.77,28-10-2024,Purchase,ICICI UPI,Punjab,Donations and Devotion
+24732.16,30-12-2024,Investment,Google Pay,Uttarakhand,Financial services and Taxes
+31994.34,08-12-2024,Bill Payment,PhonePe,Sikkim,Investment
+25309.12,08-05-2024,Investment,IDFC UPI,Uttarakhand,Other
+6512.64,22-02-2025,Purchase,Other,West Bengal,More Services
+36910.96,27-07-2024,Purchase,Paytm,Odisha,Other
+38191.73,19-01-2025,Refund,IDFC UPI,West Bengal,Purchases
+25662.97,30-12-2024,Refund,ICICI UPI,West Bengal,Investment
+11472.57,04-03-2025,Bill Payment,Other,Punjab,Travel bookings
+5500.68,17-11-2024,Investment,IDFC UPI,Uttarakhand,Investment
+7608.41,24-04-2024,Purchase,Other,Tamil Nadu,Other
+20915.18,08-04-2024,Subscription,Paytm,Telangana,Financial services and Taxes
+11860.68,16-12-2024,Investment,Paytm,Odisha,Purchases
+24531.88,13-08-2024,Refund,Razor Pay,Tripura,Donations and Devotion
+3347.48,07-06-2024,Refund,PhonePe,Punjab,Home delivery
+19580.32,06-03-2025,Subscription,Other,Rajasthan,Utilities
+48749.82,16-07-2024,Purchase,Paytm,Odisha,Other
+8989.44,21-06-2024,Investment,ICICI UPI,West Bengal,Home delivery
+45734.88,19-09-2024,Bill Payment,Razor Pay,Sikkim,More Services
+48869.07,15-12-2024,Purchase,IDFC UPI,Rajasthan,Donations and Devotion
+20018.62,30-05-2024,Other,Razor Pay,Odisha,Other
+36894.28,28-11-2024,Subscription,Other,Rajasthan,More Services
+27780.2,04-07-2024,Bill Payment,Google Pay,Punjab,More Services
+40371.7,20-11-2024,Investment,ICICI UPI,Rajasthan,Purchases
+11330.28,04-05-2024,Purchase,Other,West Bengal,Utilities
+1119.31,22-10-2024,Other,Paytm,Telangana,Travel bookings
+46667.86,23-02-2025,Investment,Google Pay,Odisha,More Services
+27507.97,05-04-2024,Refund,HDFC,Punjab,Donations and Devotion
+27700.74,25-08-2024,Purchase,PhonePe,Sikkim,Investment
+19033.28,27-10-2024,Refund,Paytm,Punjab,Investment
+12245.8,09-09-2024,Refund,HDFC,Rajasthan,Investment
+23164.26,21-05-2024,Refund,Other,Tamil Nadu,Other
+11166.76,15-02-2025,Bill Payment,Paytm,Odisha,Purchases
+32184.61,17-01-2025,Subscription,ICICI UPI,Telangana,More Services
+30709.97,19-10-2024,Other,PhonePe,Uttarakhand,Utilities
+10419.95,07-11-2024,Refund,IDFC UPI,Tamil Nadu,Investment
+41820.38,15-07-2024,Refund,ICICI UPI,Punjab,Utilities
+3329.83,06-09-2024,Bill Payment,PhonePe,Odisha,Financial services and Taxes
+7445.52,23-06-2024,Bill Payment,HDFC,West Bengal,More Services
+24362.21,26-04-2024,Refund,HDFC,Uttarakhand,Other
+40592.44,31-10-2024,Purchase,HDFC,Sikkim,Purchases
+43874.93,27-03-2024,Bill Payment,Other,Punjab,Other
+36693.45,23-10-2024,Subscription,ICICI UPI,Rajasthan,Travel bookings
+14403.82,11-02-2025,Bill Payment,PhonePe,Odisha,Other
+2646.92,25-09-2024,Investment,IDFC UPI,Uttarakhand,Other
+10103.34,24-05-2024,Refund,ICICI UPI,West Bengal,Travel bookings
+11137.42,06-08-2024,Refund,Razor Pay,Punjab,Utilities
+31683.3,06-05-2024,Purchase,HDFC,Rajasthan,Home delivery
+30444.95,18-08-2024,Refund,PhonePe,Tripura,Utilities
+36000.18,21-01-2025,Refund,PhonePe,Tripura,Utilities
+8674.8,28-01-2025,Refund,Paytm,Punjab,Donations and Devotion
+16513.67,05-12-2024,Subscription,Other,Punjab,More Services
+1029.54,06-01-2025,Subscription,HDFC,Telangana,Other
+2053.83,13-08-2024,Bill Payment,Razor Pay,Odisha,Financial services and Taxes
+15920.3,25-09-2024,Purchase,PhonePe,Punjab,Travel bookings
+33638.81,21-02-2025,Purchase,ICICI UPI,Uttar Pradesh,Utilities
+41988.95,31-05-2024,Other,PhonePe,Telangana,Other
+32794.58,01-03-2025,Subscription,HDFC,Sikkim,Other
+29242.69,13-08-2024,Other,IDFC UPI,Uttar Pradesh,Utilities
+11432.26,10-09-2024,Other,Other,Punjab,Investment
+19100.57,01-08-2024,Purchase,PhonePe,Rajasthan,Investment
+45643.38,19-06-2024,Investment,IDFC UPI,Punjab,Purchases
+13050.36,25-02-2025,Investment,Paytm,Punjab,Financial services and Taxes
+21443.84,29-10-2024,Refund,HDFC,Tamil Nadu,Travel bookings
+12408.58,06-11-2024,Subscription,Other,Punjab,Home delivery
+49212.88,09-06-2024,Purchase,Google Pay,Rajasthan,Utilities
+27857.59,18-02-2025,Subscription,HDFC,Telangana,More Services
+2851.34,20-12-2024,Subscription,Google Pay,Sikkim,Other
+15111.06,17-10-2024,Other,IDFC UPI,Telangana,Other
+5154.82,07-07-2024,Refund,Other,Uttar Pradesh,Other
+25535.68,13-01-2025,Other,PhonePe,Uttarakhand,Purchases
+47440.81,13-03-2024,Other,IDFC UPI,Rajasthan,Financial services and Taxes
+20585.08,24-01-2025,Bill Payment,Google Pay,Uttarakhand,Home delivery
+11100.6,08-03-2025,Bill Payment,Razor Pay,Uttar Pradesh,Utilities
+5659.03,21-04-2024,Investment,Razor Pay,Tamil Nadu,Investment
+49895.54,11-12-2024,Subscription,Other,Odisha,Other
+30800.17,21-08-2024,Other,Paytm,Rajasthan,Financial services and Taxes
+8492.72,09-09-2024,Refund,ICICI UPI,West Bengal,Purchases
+27488.35,16-10-2024,Purchase,IDFC UPI,Uttar Pradesh,More Services
+45965,16-08-2024,Investment,ICICI UPI,Telangana,Other
+38942.65,04-09-2024,Refund,Other,Tripura,Other
+6000.08,28-08-2024,Subscription,Razor Pay,West Bengal,Investment
+35965.68,24-03-2024,Bill Payment,IDFC UPI,Tripura,Donations and Devotion
+42824.73,08-07-2024,Other,HDFC,Punjab,Travel bookings
+43576.72,15-12-2024,Subscription,Paytm,Tamil Nadu,Purchases
+25219.47,08-07-2024,Other,HDFC,Telangana,Other
+22306.84,01-01-2025,Subscription,Google Pay,West Bengal,Investment
+12251.3,11-03-2025,Other,Other,Uttar Pradesh,Other
+14340.39,27-01-2025,Purchase,Paytm,Rajasthan,More Services
+30221.88,23-03-2024,Refund,Other,Punjab,Purchases
+34552.02,02-10-2024,Purchase,HDFC,Rajasthan,More Services
+46913.23,22-10-2024,Other,Razor Pay,Tripura,Purchases
+23010.2,16-01-2025,Bill Payment,Razor Pay,Tamil Nadu,Other
+29644.15,14-06-2024,Investment,Google Pay,Tamil Nadu,Donations and Devotion
+22792.44,19-10-2024,Investment,ICICI UPI,Punjab,Purchases
+4104.37,01-05-2024,Subscription,Paytm,Uttarakhand,Home delivery
+27925.48,12-11-2024,Refund,Google Pay,Sikkim,Financial services and Taxes
+2888.14,18-09-2024,Investment,Other,Rajasthan,Investment
+45251.13,11-11-2024,Bill Payment,HDFC,Uttar Pradesh,Other
+36403.3,27-11-2024,Bill Payment,Google Pay,Rajasthan,Investment
+36130.66,19-11-2024,Investment,ICICI UPI,Rajasthan,Utilities
+38541.82,01-11-2024,Investment,Other,Punjab,Donations and Devotion
+29687.12,29-06-2024,Other,IDFC UPI,Tamil Nadu,Home delivery
+21243.54,09-02-2025,Bill Payment,Google Pay,Sikkim,Home delivery
+8091.35,07-02-2025,Refund,Other,Odisha,Financial services and Taxes
+6124.72,13-01-2025,Bill Payment,Paytm,Uttarakhand,More Services
+11838.21,07-12-2024,Investment,PhonePe,Uttar Pradesh,Home delivery
+11173.88,31-03-2024,Bill Payment,Paytm,Uttarakhand,Purchases
+11340.18,27-05-2024,Bill Payment,PhonePe,Uttar Pradesh,Utilities
+33552.5,05-07-2024,Bill Payment,Razor Pay,Uttarakhand,Donations and Devotion
+34370.78,01-06-2024,Investment,Paytm,Sikkim,Other
+29437.33,21-07-2024,Other,PhonePe,West Bengal,More Services
+27648.56,12-08-2024,Purchase,IDFC UPI,Uttarakhand,Donations and Devotion
+4254.75,23-08-2024,Refund,IDFC UPI,Odisha,More Services
+18074.85,16-01-2025,Other,HDFC,Telangana,Travel bookings
+8463.77,11-04-2024,Refund,IDFC UPI,Sikkim,Travel bookings
+30872.32,27-02-2025,Investment,PhonePe,Sikkim,Utilities
+16245.45,17-12-2024,Investment,HDFC,Odisha,Investment
+35829.33,06-01-2025,Subscription,ICICI UPI,Rajasthan,Home delivery
+16713.54,18-03-2024,Purchase,IDFC UPI,Tripura,Utilities
+31091.58,28-12-2024,Other,IDFC UPI,Odisha,Investment
+44848.65,18-01-2025,Purchase,Other,Tripura,Financial services and Taxes
+17380.56,04-06-2024,Investment,IDFC UPI,Telangana,Purchases
+15090.19,06-10-2024,Subscription,Google Pay,Rajasthan,Home delivery
+48617.03,20-09-2024,Bill Payment,ICICI UPI,West Bengal,Investment
+34053.25,01-03-2025,Bill Payment,Other,West Bengal,Travel bookings
+39115.14,04-03-2025,Investment,Razor Pay,Telangana,Utilities
+40323.12,21-09-2024,Refund,ICICI UPI,Odisha,Financial services and Taxes
+48345.64,15-04-2024,Refund,PhonePe,Sikkim,Investment
+47014.13,05-10-2024,Bill Payment,HDFC,Tamil Nadu,More Services
+3577.64,24-04-2024,Bill Payment,IDFC UPI,Uttar Pradesh,Other
+8574.42,23-02-2025,Investment,ICICI UPI,Uttarakhand,Financial services and Taxes
+17827.49,17-04-2024,Refund,IDFC UPI,Rajasthan,Purchases
+43773.68,23-01-2025,Purchase,Google Pay,Sikkim,Purchases
+31513.12,19-07-2024,Other,Paytm,West Bengal,Home delivery
+11868.92,11-08-2024,Investment,ICICI UPI,Odisha,Travel bookings
+35111.2,06-03-2025,Other,ICICI UPI,Tamil Nadu,Utilities
+20016.78,24-12-2024,Purchase,HDFC,Rajasthan,Utilities
+35142.95,25-05-2024,Other,Google Pay,West Bengal,Donations and Devotion
+46739.45,10-09-2024,Purchase,Razor Pay,Tripura,Utilities
+42111.21,25-02-2025,Subscription,Google Pay,Tripura,Donations and Devotion
+26767.93,24-01-2025,Bill Payment,Razor Pay,Sikkim,More Services
+18670.77,12-02-2025,Investment,Other,Punjab,Other
+27574.37,30-10-2024,Bill Payment,Paytm,Rajasthan,Purchases
+37252.75,27-04-2024,Investment,PhonePe,West Bengal,Other
+20843.67,26-01-2025,Investment,Other,Punjab,Other
+36908.26,26-01-2025,Purchase,IDFC UPI,Rajasthan,Donations and Devotion
+46496.25,23-09-2024,Bill Payment,PhonePe,Uttar Pradesh,Purchases
+29708.86,26-11-2024,Refund,PhonePe,Uttarakhand,Utilities
+32869.54,27-10-2024,Other,Razor Pay,Telangana,More Services
+44664.9,09-07-2024,Refund,Paytm,Odisha,Donations and Devotion
+11096.9,19-09-2024,Subscription,Paytm,Uttar Pradesh,Utilities
+45892.48,20-04-2024,Bill Payment,Paytm,Odisha,Financial services and Taxes
+15729.41,31-03-2024,Bill Payment,ICICI UPI,Tripura,Financial services and Taxes
+35534.7,30-07-2024,Subscription,ICICI UPI,Sikkim,Home delivery
+24394.97,18-04-2024,Other,IDFC UPI,Uttar Pradesh,Purchases
+36285.25,05-05-2024,Bill Payment,Paytm,Tripura,Donations and Devotion
+46835.1,10-04-2024,Purchase,Google Pay,Uttarakhand,More Services
+41517.19,25-10-2024,Subscription,PhonePe,Telangana,Utilities
+30862.22,23-10-2024,Refund,ICICI UPI,Tripura,More Services
+39846.52,15-02-2025,Subscription,Other,Sikkim,Investment
+17118.24,14-07-2024,Refund,PhonePe,Uttarakhand,Investment
+40967.56,21-08-2024,Refund,Paytm,Rajasthan,Purchases
+30899.29,01-01-2025,Bill Payment,IDFC UPI,Tripura,Travel bookings
+42899.78,26-03-2024,Other,HDFC,Telangana,Investment
+48557.48,29-06-2024,Subscription,ICICI UPI,Punjab,Travel bookings
+35448.59,02-06-2024,Refund,ICICI UPI,Rajasthan,Travel bookings
+11170.89,19-11-2024,Purchase,HDFC,Sikkim,More Services
+38005.61,01-08-2024,Bill Payment,PhonePe,West Bengal,More Services
+22652.16,13-12-2024,Refund,IDFC UPI,Sikkim,Financial services and Taxes
+28603.09,08-02-2025,Other,Razor Pay,Tamil Nadu,Donations and Devotion
+40717.78,24-03-2024,Investment,Razor Pay,Uttarakhand,Home delivery
+49694.3,17-07-2024,Refund,ICICI UPI,Odisha,Donations and Devotion
+22516.62,16-11-2024,Refund,IDFC UPI,Uttar Pradesh,Investment
+15763.94,25-06-2024,Refund,Other,Sikkim,Investment
+28802.03,25-05-2024,Purchase,Google Pay,Punjab,Travel bookings
+10341.44,12-02-2025,Refund,IDFC UPI,Uttarakhand,Travel bookings
+41544.9,25-10-2024,Subscription,Google Pay,Odisha,Utilities
+12670.95,17-10-2024,Bill Payment,Google Pay,Sikkim,More Services
+33960.26,20-12-2024,Refund,IDFC UPI,Punjab,Travel bookings
+36086.03,16-12-2024,Bill Payment,Razor Pay,West Bengal,Travel bookings
+1263.71,16-12-2024,Investment,ICICI UPI,Tripura,Utilities
+22341.8,06-04-2024,Investment,Razor Pay,Tamil Nadu,Utilities
+34158.11,02-02-2025,Other,Other,Punjab,Financial services and Taxes
+14447.46,12-05-2024,Bill Payment,Other,Punjab,Home delivery
+34071.69,17-02-2025,Subscription,PhonePe,Sikkim,Purchases
+44692.42,22-09-2024,Other,Razor Pay,Uttarakhand,Financial services and Taxes
+13542.78,05-05-2024,Investment,PhonePe,Punjab,Investment
+18035.55,18-09-2024,Subscription,HDFC,Telangana,Other
+18802.76,06-09-2024,Investment,HDFC,Tamil Nadu,Other
+35404.37,05-05-2024,Subscription,IDFC UPI,Uttarakhand,Financial services and Taxes
+5206.28,23-11-2024,Purchase,Razor Pay,Tamil Nadu,Financial services and Taxes
+44808.74,24-10-2024,Subscription,HDFC,West Bengal,Utilities
+14194.7,12-12-2024,Purchase,IDFC UPI,West Bengal,Travel bookings
+5771.63,22-11-2024,Bill Payment,ICICI UPI,Punjab,Other
+13219.93,04-03-2025,Purchase,Paytm,Odisha,Purchases
+24666.78,10-02-2025,Purchase,Razor Pay,Tamil Nadu,Investment
+18120.78,19-03-2024,Investment,ICICI UPI,Uttarakhand,Investment
+15674.9,06-01-2025,Other,PhonePe,Odisha,More Services
+19390.26,19-11-2024,Purchase,PhonePe,Rajasthan,Purchases
+21243.26,25-09-2024,Purchase,Other,Uttarakhand,Donations and Devotion
+8575.49,13-01-2025,Subscription,HDFC,Odisha,More Services
+28498.36,21-09-2024,Purchase,IDFC UPI,Uttar Pradesh,Home delivery
+2373.11,05-01-2025,Purchase,IDFC UPI,Uttar Pradesh,Utilities
+19826.88,26-04-2024,Subscription,HDFC,Punjab,Home delivery
+31392.87,24-08-2024,Refund,IDFC UPI,Tripura,Travel bookings
+15704.94,17-01-2025,Refund,Google Pay,West Bengal,More Services
+7566.9,18-04-2024,Refund,Other,Rajasthan,Financial services and Taxes
+31712.8,01-12-2024,Purchase,Razor Pay,Rajasthan,Utilities
+29221.39,21-06-2024,Purchase,IDFC UPI,Uttar Pradesh,Home delivery
+32324.42,22-03-2024,Bill Payment,Paytm,Rajasthan,More Services
+39237.99,10-09-2024,Other,Other,Punjab,Investment
+41866.13,01-02-2025,Refund,Google Pay,Rajasthan,Travel bookings
+32218.89,25-06-2024,Refund,Other,Uttar Pradesh,Financial services and Taxes
+10511.81,15-12-2024,Other,HDFC,West Bengal,Financial services and Taxes
+31870.97,02-01-2025,Purchase,Paytm,Tripura,Investment
+20474.08,13-06-2024,Bill Payment,Paytm,West Bengal,Financial services and Taxes
+4154.43,30-12-2024,Refund,Other,Odisha,Financial services and Taxes
+31430.86,12-06-2024,Subscription,Razor Pay,Odisha,Financial services and Taxes
+35564.53,19-07-2024,Purchase,HDFC,Sikkim,Other
+46820.61,25-10-2024,Purchase,IDFC UPI,Rajasthan,More Services
+19355.52,31-01-2025,Purchase,Razor Pay,Odisha,Utilities
+13303.31,10-12-2024,Other,ICICI UPI,Rajasthan,More Services
+18475.81,16-05-2024,Refund,Other,Uttarakhand,Financial services and Taxes
+49764.69,25-06-2024,Purchase,ICICI UPI,Tripura,Purchases
+45358.01,21-01-2025,Purchase,ICICI UPI,Rajasthan,Travel bookings
+35301.63,24-03-2024,Purchase,Paytm,West Bengal,Home delivery
+40738.34,31-07-2024,Bill Payment,IDFC UPI,Uttar Pradesh,Other
+28130.56,16-11-2024,Refund,PhonePe,Odisha,Financial services and Taxes
+43423.15,05-11-2024,Purchase,ICICI UPI,Uttar Pradesh,Home delivery
+2343.03,23-03-2024,Other,Google Pay,Odisha,Purchases
+13403.39,26-12-2024,Bill Payment,Google Pay,Punjab,More Services
+44404.44,23-07-2024,Subscription,PhonePe,West Bengal,Other
+37435.76,20-06-2024,Refund,IDFC UPI,Punjab,Other
+18531.28,10-05-2024,Other,Razor Pay,Telangana,Travel bookings
+22814.36,04-04-2024,Investment,Razor Pay,Punjab,Utilities
+42650.58,09-10-2024,Purchase,Paytm,Uttarakhand,Utilities
+26082.66,22-10-2024,Investment,Other,Rajasthan,Travel bookings
+13042.82,21-12-2024,Investment,HDFC,Tripura,Purchases
+15690.23,28-09-2024,Purchase,HDFC,Rajasthan,Donations and Devotion
+17438.01,15-05-2024,Bill Payment,Paytm,Punjab,Financial services and Taxes
+45862.39,27-06-2024,Other,Paytm,Rajasthan,Travel bookings
+11294.48,30-12-2024,Investment,Paytm,Rajasthan,Home delivery
+31174.71,18-02-2025,Other,Other,West Bengal,Investment
+4804.41,17-06-2024,Subscription,Google Pay,Punjab,Investment
+26765.46,23-11-2024,Investment,Paytm,Odisha,Financial services and Taxes
+47585.52,09-09-2024,Investment,IDFC UPI,Sikkim,Home delivery
+34644.6,18-11-2024,Refund,Razor Pay,Odisha,Other
+10519.12,23-08-2024,Subscription,HDFC,Tamil Nadu,Donations and Devotion
+24631.41,02-10-2024,Other,ICICI UPI,Sikkim,Financial services and Taxes
+25215.76,05-05-2024,Investment,ICICI UPI,Odisha,Home delivery
+21230.08,21-04-2024,Subscription,HDFC,Punjab,Utilities
+16933.29,15-11-2024,Refund,Razor Pay,Sikkim,Financial services and Taxes
+27310.12,02-08-2024,Investment,PhonePe,Uttar Pradesh,More Services
+23019.44,22-04-2024,Refund,Paytm,Rajasthan,Investment
+8734.92,03-02-2025,Investment,PhonePe,Rajasthan,Investment
+28364.13,08-05-2024,Purchase,ICICI UPI,Uttar Pradesh,Financial services and Taxes
+15160.36,11-09-2024,Bill Payment,ICICI UPI,Tamil Nadu,Other
+14717.78,28-04-2024,Refund,HDFC,Tripura,Home delivery
+7698.2,20-07-2024,Other,PhonePe,Uttar Pradesh,Investment
+32247.08,24-09-2024,Investment,Other,West Bengal,Donations and Devotion
+2512.67,24-12-2024,Subscription,Other,Telangana,Other
+42858.64,05-06-2024,Investment,Google Pay,Odisha,Travel bookings
+28209.69,20-05-2024,Bill Payment,IDFC UPI,Telangana,Utilities
+21045.72,17-01-2025,Refund,Razor Pay,Uttarakhand,Home delivery
+22814.71,06-10-2024,Subscription,HDFC,Odisha,Other
+11838.14,24-06-2024,Other,Other,Uttar Pradesh,Purchases
+16688.81,20-05-2024,Refund,Other,Odisha,Home delivery
+41666.72,04-11-2024,Investment,IDFC UPI,Uttar Pradesh,Investment
+32085.22,17-04-2024,Other,ICICI UPI,West Bengal,Travel bookings
+29780.42,11-06-2024,Bill Payment,Google Pay,Uttarakhand,Investment
+40253.63,22-08-2024,Purchase,IDFC UPI,Uttarakhand,Donations and Devotion
+37286.65,20-07-2024,Investment,Other,Telangana,Home delivery
+40627.16,06-04-2024,Investment,HDFC,Uttarakhand,Other
+12746.76,15-07-2024,Bill Payment,Paytm,Rajasthan,Investment
+45645.98,12-10-2024,Bill Payment,Razor Pay,Uttar Pradesh,Purchases
+45996.38,26-08-2024,Refund,PhonePe,Uttar Pradesh,Donations and Devotion
+46011.22,20-03-2024,Refund,HDFC,West Bengal,Home delivery
+25315.87,10-12-2024,Purchase,Razor Pay,Rajasthan,Other
+17236.73,03-06-2024,Bill Payment,PhonePe,Uttarakhand,Purchases
+14287.03,18-10-2024,Refund,Google Pay,Telangana,Travel bookings
+43963.56,11-06-2024,Other,ICICI UPI,Uttarakhand,Donations and Devotion
+29169.77,15-05-2024,Bill Payment,Google Pay,Tripura,More Services
+33141.39,10-08-2024,Investment,Razor Pay,Odisha,Home delivery
+28538.69,23-12-2024,Other,Paytm,Uttar Pradesh,Other
+26430.13,07-08-2024,Other,ICICI UPI,Uttar Pradesh,Financial services and Taxes
+8780.59,19-03-2024,Investment,Paytm,Uttar Pradesh,Purchases
+3323.33,06-05-2024,Purchase,Paytm,Uttar Pradesh,Investment
+24917.04,03-06-2024,Investment,PhonePe,Rajasthan,Financial services and Taxes
+42893.14,06-11-2024,Bill Payment,Paytm,Rajasthan,Donations and Devotion
+49553.38,14-02-2025,Other,Paytm,Uttar Pradesh,Financial services and Taxes
+13039.36,13-10-2024,Subscription,PhonePe,West Bengal,Purchases
+44391.21,26-07-2024,Investment,Other,Telangana,Travel bookings
+48558.54,26-04-2024,Subscription,IDFC UPI,Rajasthan,More Services
+11390.46,13-01-2025,Other,ICICI UPI,West Bengal,Travel bookings
+26478.15,29-10-2024,Refund,IDFC UPI,Sikkim,Donations and Devotion
+34153.57,29-04-2024,Refund,PhonePe,Uttarakhand,Home delivery
+37894.72,22-10-2024,Purchase,Google Pay,Rajasthan,More Services
+47339.09,09-02-2025,Subscription,HDFC,Tripura,Other
+27636.52,14-03-2024,Refund,Paytm,Rajasthan,More Services
+20486.57,23-07-2024,Investment,PhonePe,Telangana,Investment
+16433.65,16-04-2024,Refund,Google Pay,Uttar Pradesh,Donations and Devotion
+9694.76,30-11-2024,Refund,Other,Uttarakhand,More Services
+39193.38,05-03-2025,Bill Payment,Other,Sikkim,Home delivery
+15814.94,22-07-2024,Bill Payment,Razor Pay,Sikkim,Donations and Devotion
+40548.25,26-04-2024,Purchase,Google Pay,Tamil Nadu,Purchases
+6642.4,04-11-2024,Refund,ICICI UPI,Tripura,Utilities
+39200.62,24-08-2024,Refund,Other,West Bengal,Investment
+15472.58,03-06-2024,Purchase,Google Pay,Sikkim,Home delivery
+41602.36,03-10-2024,Investment,Paytm,Telangana,More Services
+9721.51,11-07-2024,Purchase,Paytm,Punjab,More Services
+44944.88,14-03-2024,Bill Payment,Razor Pay,Tripura,Utilities
+1179.93,02-08-2024,Bill Payment,PhonePe,Uttarakhand,Donations and Devotion
+21014,24-07-2024,Refund,PhonePe,Tamil Nadu,Home delivery
+7479.72,12-09-2024,Purchase,IDFC UPI,Uttarakhand,Donations and Devotion
+7296.57,12-02-2025,Bill Payment,Other,West Bengal,Purchases
+43361.54,01-07-2024,Investment,Paytm,Tripura,Travel bookings
+42973.67,15-03-2024,Refund,HDFC,Telangana,Financial services and Taxes
+47329.92,30-01-2025,Investment,ICICI UPI,Odisha,Travel bookings
+29880.3,19-09-2024,Investment,PhonePe,Tripura,Donations and Devotion
+22731.28,06-03-2025,Purchase,Paytm,West Bengal,Investment
+12862.9,17-09-2024,Purchase,Other,Uttarakhand,More Services
+28310.36,09-09-2024,Purchase,IDFC UPI,Telangana,Travel bookings
+19375.52,28-01-2025,Bill Payment,Razor Pay,Rajasthan,Financial services and Taxes
+7474.81,24-01-2025,Bill Payment,Google Pay,Rajasthan,More Services
+33253.25,20-03-2024,Subscription,IDFC UPI,Rajasthan,Investment
+48597.24,02-01-2025,Subscription,Google Pay,Uttar Pradesh,Donations and Devotion
+45338.99,04-12-2024,Subscription,Google Pay,Odisha,Other
+18629.84,15-10-2024,Purchase,PhonePe,Rajasthan,Purchases
+13842.4,24-01-2025,Investment,IDFC UPI,Tamil Nadu,Home delivery
+27204.8,07-12-2024,Purchase,Google Pay,Rajasthan,Utilities
