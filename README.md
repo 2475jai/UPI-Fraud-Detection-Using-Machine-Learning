@@ -23,8 +23,7 @@ Libraries: numpy, base64, datetime, streamlit, pandas, xgboost
 Prerequisites
 Python 3.7+
 Installation
-git clone https://github.com/lakshmanvasu7/UPI-Fraud-Detection.git
-cd UPI-Fraud-Detection
+git clone https://github.com/2475jai/UPI-Fraud-Detection-Using-Machine-Learning.git
 
 # (Recommended) Setup virtual environment
 python -m venv venv
